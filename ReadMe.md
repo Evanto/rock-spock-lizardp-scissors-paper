@@ -15,5 +15,4 @@
 alt="IMAGE ALT TEXT HERE" width="888" height="450" border="10" /></a>
 
 ##Ссылки
-
-[Wikipedia message](https://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
+* [Wikipedia message](https://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
